@@ -189,7 +189,7 @@ module.exports = function(formio, items, done) {
 
       // Download the client.
       download(
-        'https://codeload.github.com/formio/formio-app-formio/zip/master',
+        'https://codeload.github.com/salsa-community/formio-client/zip/develop',
         'client.zip',
         'client',
         done
@@ -207,7 +207,7 @@ module.exports = function(formio, items, done) {
         return done();
       }
 
-      extract('client.zip', 'formio-app-formio-master', 'client', done);
+      extract('client.zip', 'formio-client-develop', 'client', done);
     },
 
     /**

@@ -1,5 +1,4 @@
-Welcome to the Form.io application server!
+Bienvenido al servidor de APEIRON!
 
-  - Help: https://help.form.io
-  - Code: https://github.com/formio
-  - Love: https://form.io
+  - Help: https://forum.crip.conacyt.mx/
+  - Code: https://github.com/salsa-community/vue-formio
